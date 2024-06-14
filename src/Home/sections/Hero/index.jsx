@@ -7,7 +7,7 @@ const Hero = () => {
       <section className="bg-gray">
         <div className="container p-0">
           <div className="flex-center flex-wrap">
-            <div className="grid-7" id="hero-info">
+            <div className="grid-7 break-row" id="hero-info">
               <h4 className="bold">
                 Encontre os <span>melhores artigos</span> de programação em um
                 só lugar

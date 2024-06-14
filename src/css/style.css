@@ -1325,7 +1325,7 @@ h4 {
 @media screen and (max-width: 960px) {
   h4 {
     font-family: "Roboto", sans-serif;
-    font-size: 32px;
+    font-size: 24px;
     line-height: 130%;
     font-weight: 300;
   }
@@ -1349,7 +1349,7 @@ h5 {
 @media screen and (max-width: 960px) {
   h5 {
     font-family: "Roboto", sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 140%;
     font-weight: 300;
   }
@@ -1736,6 +1736,7 @@ option {
   font-size: 16px;
   line-height: 26px;
   font-weight: 200;
+  font-weight: bold;
   cursor: pointer;
   transition: 0.3s ease;
 }
